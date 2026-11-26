@@ -132,6 +132,8 @@ plt.title("Attenuation vs Wavelength (Fog Condition)")
 plt.grid()
 plt.show()
 ```
+## Tabulation
+<img width="1280" height="701" alt="image" src="https://github.com/user-attachments/assets/e0895c72-cb61-4a4f-b387-f60c2e7b832b" />
 
 
 ## Output
